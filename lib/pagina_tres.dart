@@ -23,6 +23,12 @@ class PantallaTres extends StatelessWidget {
     'apple',
     'banana',
     'melon',
+    'Python',
+    'java',
+    'programador',
+    'victor',
+    'tuplas',
+    'gatito',
   ];
 
   @override

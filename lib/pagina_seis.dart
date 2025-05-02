@@ -12,7 +12,7 @@ class PantallaSeis extends StatelessWidget {
           Container(
             width: 200,
             height: 200,
-            color: Colors.orange,
+            color: Colors.lightGreenAccent,
             child: const Baseline(
               baseline: 50,
               baselineType: TextBaseline.alphabetic,
